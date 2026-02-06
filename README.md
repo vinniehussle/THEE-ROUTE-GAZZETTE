@@ -9,7 +9,3 @@ Sections:
 4. Navbar (About + YouTube)
 5. Replaceable images inside /images folder
 
-How to use:
-1. Unzip the folder
-2. Open index.html in any browser
-3. Replace images in the /images folder (hero.jpg, about.jpg, youtube1.jpg, youtube2.jpg, fashion1.jpg)
